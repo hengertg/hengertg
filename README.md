@@ -5,22 +5,16 @@ I'm Henger, an aspiring Software Engineer passionate about Computer Science, Mac
 I'm currently learning on my own through self-study, building projects, and continuously improving my problem-solving skills. I enjoy understanding how software works under the hood rather than simply learning how to use it.
 
 My goal is to become a Software Engineer at a world-class technology company, building products that have a real impact on millions of users.
-
 ## 🚀 Currently Learning
-
 - Python
 - Data Structures & Algorithms
 - Object-Oriented Programming
 - Computer Science (CS50)
-
 ## 📚 Next Goals
-
 - LeetCode
 - Machine Learning
 - Java
-
 ## 💻 Current Projects
-
 - Wallet System
 - To Do List
 - Python Calculator
