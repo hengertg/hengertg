@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**hengertg/hengertg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Henger, an aspiring Software Engineer passionate about Computer Science, Machine Learning, and building scalable software in Dominican Republic.
 
-Here are some ideas to get you started:
+I'm currently learning on my own through self-study, building projects, and continuously improving my problem-solving skills. I enjoy understanding how software works under the hood rather than simply learning how to use it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to become a Software Engineer at a world-class technology company, building products that have a real impact on millions of users.
+
+🚀 Currently Learning
+Python
+Data Structures & Algorithms
+Object-Oriented Programming
+Computer Science (CS50)
+📚 Next Goals
+LeetCode
+Machine Learning
+Java
+💻 Current Projects
+Wallet System
+To Do List
+Python Calculator
+
+Outside of software engineering, I'm also a content creator and Kick streamer. I've built a community of over 100,000 combined followers across social platforms, creating gaming and entertainment content while continuing to grow both technically and professionally.
+
+I enjoy solving challenging problems, building projects, and constantly learning new technologies.
