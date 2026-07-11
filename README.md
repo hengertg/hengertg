@@ -6,19 +6,24 @@ I'm currently learning on my own through self-study, building projects, and cont
 
 My goal is to become a Software Engineer at a world-class technology company, building products that have a real impact on millions of users.
 
-🚀 Currently Learning
-Python
-Data Structures & Algorithms
-Object-Oriented Programming
-Computer Science (CS50)
-📚 Next Goals
-LeetCode
-Machine Learning
-Java
-💻 Current Projects
-Wallet System
-To Do List
-Python Calculator
+## 🚀 Currently Learning
+
+- Python
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Computer Science (CS50)
+
+## 📚 Next Goals
+
+- LeetCode
+- Machine Learning
+- Java
+
+## 💻 Current Projects
+
+- Wallet System
+- To Do List
+- Python Calculator
 
 Outside of software engineering, I'm also a content creator and Kick streamer. I've built a community of over 100,000 combined followers across social platforms, creating gaming and entertainment content while continuing to grow both technically and professionally.
 
